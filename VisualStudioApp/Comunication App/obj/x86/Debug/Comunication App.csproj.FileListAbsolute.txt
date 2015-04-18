@@ -1,0 +1,24 @@
+C:\Users\Administrador\Desktop\TFG-Ricardo\TFG-Ricardo\VisualStudioApp\Comunication App\bin\Debug\Comunication App.exe
+C:\Users\Administrador\Desktop\TFG-Ricardo\TFG-Ricardo\VisualStudioApp\Comunication App\bin\Debug\Comunication App.pdb
+C:\Users\Administrador\Desktop\TFG-Ricardo\TFG-Ricardo\VisualStudioApp\Comunication App\obj\x86\Debug\Comunication App.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\TFG-Ricardo\TFG-Ricardo\VisualStudioApp\Comunication App\obj\x86\Debug\Comunication_App.Form1.resources
+C:\Users\Administrador\Desktop\TFG-Ricardo\TFG-Ricardo\VisualStudioApp\Comunication App\obj\x86\Debug\Comunication_App.Properties.Resources.resources
+C:\Users\Administrador\Desktop\TFG-Ricardo\TFG-Ricardo\VisualStudioApp\Comunication App\obj\x86\Debug\Comunication App.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\TFG-Ricardo\TFG-Ricardo\VisualStudioApp\Comunication App\obj\x86\Debug\Comunication App.exe
+C:\Users\Administrador\Desktop\TFG-Ricardo\TFG-Ricardo\VisualStudioApp\Comunication App\obj\x86\Debug\Comunication App.pdb
+C:\Users\Administrador\Desktop\Nueva carpeta\TFG-Ricardo\VisualStudioApp\Comunication App\obj\x86\Debug\Comunication App.exe
+C:\Users\Administrador\Desktop\Nueva carpeta\TFG-Ricardo\VisualStudioApp\Comunication App\obj\x86\Debug\Comunication App.pdb
+C:\Users\Administrador\Desktop\Nueva carpeta\TFG-Ricardo\VisualStudioApp\Comunication App\bin\Debug\Comunication App.exe
+C:\Users\Administrador\Desktop\Nueva carpeta\TFG-Ricardo\VisualStudioApp\Comunication App\bin\Debug\Comunication App.pdb
+C:\Users\Administrador\Desktop\Nueva carpeta\TFG-Ricardo\VisualStudioApp\Comunication App\obj\x86\Debug\Comunication App.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Nueva carpeta\TFG-Ricardo\VisualStudioApp\Comunication App\obj\x86\Debug\Comunication_App.Form1.resources
+C:\Users\Administrador\Desktop\Nueva carpeta\TFG-Ricardo\VisualStudioApp\Comunication App\obj\x86\Debug\Comunication_App.Properties.Resources.resources
+C:\Users\Administrador\Desktop\Nueva carpeta\TFG-Ricardo\VisualStudioApp\Comunication App\obj\x86\Debug\Comunication App.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\TFG-Ricardo\M1-collar\TFG2\VisualStudioApp\Comunication App\obj\x86\Debug\Comunication App.exe
+C:\Users\Administrador\Desktop\TFG-Ricardo\M1-collar\TFG2\VisualStudioApp\Comunication App\obj\x86\Debug\Comunication App.pdb
+C:\Users\Administrador\Desktop\TFG-Ricardo\M1-collar\TFG2\VisualStudioApp\Comunication App\bin\Debug\Comunication App.exe
+C:\Users\Administrador\Desktop\TFG-Ricardo\M1-collar\TFG2\VisualStudioApp\Comunication App\bin\Debug\Comunication App.pdb
+C:\Users\Administrador\Desktop\TFG-Ricardo\M1-collar\TFG2\VisualStudioApp\Comunication App\obj\x86\Debug\Comunication App.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\TFG-Ricardo\M1-collar\TFG2\VisualStudioApp\Comunication App\obj\x86\Debug\Comunication_App.Form1.resources
+C:\Users\Administrador\Desktop\TFG-Ricardo\M1-collar\TFG2\VisualStudioApp\Comunication App\obj\x86\Debug\Comunication_App.Properties.Resources.resources
+C:\Users\Administrador\Desktop\TFG-Ricardo\M1-collar\TFG2\VisualStudioApp\Comunication App\obj\x86\Debug\Comunication App.csproj.GenerateResource.Cache
